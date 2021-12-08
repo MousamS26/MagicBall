@@ -4,7 +4,7 @@ This Ball can answer ALL your questions. You can ask a question and tap on the b
 ===================================================================================================================================================================================
 ### WORKING
 
-![Android Emulator - Nexus_6P_5554 2021-12-08 20-57-49](https://user-images.githubusercontent.com/81910954/145235832-065b7665-5d8b-43b5-87c6-c07223727bda.gif)
+![Android Emulator - Nexus_6P_5554 2021-12-08 22-40-58](https://user-images.githubusercontent.com/81910954/145253078-fc1c57df-c6e4-4ef4-aeb0-d4026b95a689.gif)
 ===================================================================================================================================================================================
 
 Try this app [Now!](https://github.com/MousamSingh2612/MagicBall/raw/master/app-release.apk)
