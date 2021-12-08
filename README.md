@@ -1,16 +1,9 @@
-# magic_ball
+# Magic Ball
 
-Another Project
+This Ball can answer ALL your questions. You can ask a question and tap on the ball for its response.
 
-## Getting Started
+Made with `Flutter`.
+===================================================================================================================================================================================
+### WORKING
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Android Emulator - Nexus_6P_5554 2021-12-08 20-57-49](https://user-images.githubusercontent.com/81910954/145235832-065b7665-5d8b-43b5-87c6-c07223727bda.gif)
